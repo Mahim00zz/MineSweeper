@@ -1,5 +1,5 @@
 # Mine_Sweeper
-We all know the popular 90's game Mine Sweeper. This is my attenmp to understand the basics of the game and replicate it. 
+We all know the popular 90's game Mine Sweeper. This is my attenmp to understand the basics of the game and replicate it. I hope you enjoy it !!!
 
 # How to Win:
 
